@@ -6,7 +6,6 @@ html {
   background-size: cover;
   background-attachment: fixed;
 }
-
 h1 {
   font-size: 80px;
   text-align: center;
@@ -17,7 +16,6 @@ h2 {
   font-size: 45px;
   background-color: rgb(151, 151, 151);
 }
-
 body {
   padding: 50px;
 }
