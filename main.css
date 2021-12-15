@@ -5,6 +5,7 @@ html {
     no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
+  padding: 50px;
 }
 h1 {
   font-size: 80px;
@@ -15,7 +16,4 @@ h3,
 h2 {
   font-size: 45px;
   background-color: rgb(151, 151, 151);
-}
-body {
-  padding: 50px;
 }
