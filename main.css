@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  margin: 0px;
+  background: url(https://i.pinimg.com/564x/9d/7e/d9/9d7ed995d54f261160a4088551811352.jpg)
+    no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+  background-color: rgb(151, 151, 151);
+}
+h3,
+h2 {
+  font-size: 45px;
+  background-color: rgb(151, 151, 151);
+}
