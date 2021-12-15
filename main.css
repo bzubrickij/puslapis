@@ -17,3 +17,7 @@ h2 {
   font-size: 45px;
   background-color: rgb(151, 151, 151);
 }
+
+body {
+  padding: 50px;
+}
